@@ -6,7 +6,7 @@ I work with Pascal/Delphi since 2004 in Borland Delphi 7. Delphi is a wonderful 
 <br />
 I try to develop my JavaScript library and it will be good idea if I place it in GitHub.
 <br />
-You can find my other interests on YouTube-channel (https://www.youtube.com/channel/UCbt_RqZWVcfQvxWClWC44bg). I have some interesting ideas about Fermat's Last Theorem (https://www.youtube.com/watch?v=9gE2NsYGmas&list=PL1iMpJvHBb0974fkWAwQK5dRm00LT-i-_). 
+You can find my other interests on <a href='https://www.youtube.com/channel/UCbt_RqZWVcfQvxWClWC44bg'>YouTube-channel</a>. I have some <a href='https://www.youtube.com/watch?v=9gE2NsYGmas&list=PL1iMpJvHBb0974fkWAwQK5dRm00LT-i-_'>interesting ideas about Fermat's Last Theorem</a>. 
 <br />
 I have no commercial software developer experience yet but I would like to have it.
 
